@@ -12,6 +12,10 @@ Use color tags liberally in your analysis, especially if mixing influencers and 
 
 Klout permits users to select the areas in which they believe they are influential, but this must be supported by conversations on the topic which have been detected passively. When presented with very large groups of Twitter accounts holding multiple interests it is possible to gain insight on overall structure by connecting each user to their respective topics.
 
+#Various Meetup Transforms
+
+Meetup provides clues on real world associations of inviduals. This is a new area for me, so there are just a few small, grubby transforms I've made available. There is a lot more code that is just too raw for public use, but this does seem to be a promising area of research.
+
 #Hurricane Electric BGP
 
 When digging through a lot of ASes I kept finding myself Googling them and ending up on their respective Hurricane Electric pages. This really should be a default included IN the AS entity for Maltego.
