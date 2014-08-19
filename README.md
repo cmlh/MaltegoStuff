@@ -8,9 +8,14 @@ It would not be unusual to start with a list of a hundred accounts involved in p
 
 Use color tags liberally in your analysis, especially if mixing influencers and influencees. Tagging initial subjects red, first order influencees orange, second order yellow, and so forth may produce a graph that yields some insight. Counting on degree to ID important accounts will be less effective than you might expect.
 
+#Klout Topics
+
+Klout permits users to select the areas in which they believe they are influential, but this must be supported by conversations on the topic which have been detected passively. When presented with very large groups of Twitter accounts holding multiple interests it is possible to gain insight on overall structure by connecting each user to their respective topics.
+
 #Hurricane Electric BGP
 
 When digging through a lot of ASes I kept finding myself Googling them and ending up on their respective Hurricane Electric pages. This really should be a default included IN the AS entity for Maltego.
+
 
 #DomainTools
 
