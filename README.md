@@ -10,4 +10,8 @@ Use color tags liberally in your analysis, especially if mixing influencers and 
 
 #Hurricane Electric BGP
 
-When digging through a lot of ASes I kept finding myself Googling them and ending up on their respective Hurricane Electric pages. This really should be a default included IN the AS entity for Maltego
+When digging through a lot of ASes I kept finding myself Googling them and ending up on their respective Hurricane Electric pages. This really should be a default included IN the AS entity for Maltego.
+
+#DomainTools
+
+Every domain of interest gets looked up in DomainTools. It was handy to have a transform that drops the URL for each domain into a graph. This code needs to be expanded so it captures not just the URL, but also grabs some of the key content when the URL entity is created. Not everyone has Domain Tools, I frequently find myself transcribing results from the site.
